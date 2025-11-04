@@ -19,9 +19,9 @@
 <p align="left">
 <a href="https://linkedin.com/in/saurav-kumar-492bb425b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saurav-kumar-492bb425b/" height="30" width="40" /></a>
 <a href="https://kaggle.com/iraaday7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="iraaday7" height="30" width="40" /></a>
-<a href="https://instagram.com/iraaday_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iraaday_7" height="30" width="40" /></a>
+<!--  <a href="https://instagram.com/iraaday_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iraaday_7" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/saurav2k3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saurav2k3" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/krsowr7a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="krsowr7a" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/krsowr7a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="krsowr7a" height="30" width="40" /></a>-->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
