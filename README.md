@@ -27,13 +27,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -
 -->
-<h1 align="center">Hi, I'm Saurav Kumar 👋</h1>
-<h3 align="center">Data Science & MLOps | B.S CS (Data Analytics), IIT Patna</h3>
 
-<p align="center">
-I build end-to-end ML systems — not just notebooks. From data pipelines to deployed APIs,
-I care about the "ops" in MLOps as much as the modeling.
-</p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/saurav-kumar-492bb425b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -49,21 +43,6 @@ Full-time roles in **Data Science, ML/MLOps, or AI Engineering** at product comp
 
 ---
 
-### 🚀 Featured Projects
-
-**[Spotify Hybrid Recommender System](https://github.com/saurav3k2)**
-A three-phase recommendation pipeline (content-based → collaborative → hybrid re-ranking) built with a full MLOps stack: DVC for data versioning, MLflow for experiment tracking, Docker for containerization, GitHub Actions for CI/CD, and blue-green deployment on AWS.
-`Python` `MLflow` `DVC` `Docker` `AWS` `GitHub Actions`
-
-**[Insurance Premium Prediction API](https://github.com/saurav3k2)**
-A FastAPI backend service serving a premium-prediction model, built to learn production API design — request validation, model serving, and containerized deployment.
-`FastAPI` `Docker` `Python` `Pydantic`
-
-**[Swiggy Delivery Time Prediction](https://github.com/saurav3k2/Swiggy-Delivery-Time-Prediction)**
-ML model predicting food delivery time in minutes, with a Dockerized training/inference pipeline, DVC-tracked data versioning, and CI/CD automation.
-`Python` `Docker` `DVC` `CI/CD`
-
-*(Full project list & write-ups in my [pinned repositories](https://github.com/saurav3k2?tab=repositories) below.)*
 
 ---
 
