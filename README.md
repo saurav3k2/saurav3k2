@@ -41,10 +41,9 @@ Here are some ideas to get you started:
 
 Full-time roles in **Data Science, ML/MLOps, or AI Engineering** at product companies — where I can own systems from data ingestion through to production deployment, not just model training.
 
----
-
 
 ---
+
 
 ### 🛠️ Tech Stack
 
