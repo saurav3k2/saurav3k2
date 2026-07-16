@@ -1,12 +1,12 @@
 # Hi there 👋
 ### I am Saurav ⭐
 
-<img src="giphy.gif" height="300" width="500" align="right">
+<!-- <img src="giphy.gif" height="300" width="500" align="right">
 <br/>
 <br/>
-<br/>
+<br/> -->
 
-
+<!--
 
 👩‍💻 Data Science enthusiast <br />
 ⚡ Fun fact: I am  a quick learner 😃 <br/>
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 -
 -->
 
-
+<!--
 <p align="center">
 <a href="https://www.linkedin.com/in/saurav-kumar-492bb425b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.kaggle.com/iraaday7"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
@@ -75,3 +75,4 @@ Full-time roles in **Data Science, ML/MLOps, or AI Engineering** at product comp
 ### 📫 Let's Connect
 
 I'm actively interviewing for full-time Data Science / ML / AI Engineering roles — feel free to reach out on [LinkedIn](https://www.linkedin.com/in/saurav-kumar-492bb425b/) or via [email](mailto:saurav3k2@gmail.com).
+-->
